@@ -1,6 +1,6 @@
 ###A React scaffold： 
 
-####features
+####Features
     1.react hot replace
     2.sass(css in modules)
     3.http-proxy
